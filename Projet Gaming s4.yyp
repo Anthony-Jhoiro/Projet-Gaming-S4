@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "4dbb3404-ac0d-45b7-911f-cbd3ee9c1c1a",
+            "Value": {
+                "id": "417a04c9-e217-4ae8-a58d-1f9e4e1be800",
+                "resourcePath": "sprites\\spr_player_idle\\spr_player_idle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "639dd92c-1e22-40a1-aa48-87bd14f2f6a3",
             "Value": {
                 "id": "d315c220-f99b-4417-ab0c-4cf363f62410",
@@ -183,11 +191,27 @@
             }
         },
         {
+            "Key": "eafe6129-c7cc-4cc8-875d-f77ab267e3e0",
+            "Value": {
+                "id": "4bfb25d3-d70e-4efb-a611-d2db0ca93062",
+                "resourcePath": "sprites\\spr_sword\\spr_sword.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "8d6ef002-485a-40d1-9ea6-316dead3f31e",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "fd939184-a7b0-4cd9-a2f5-e4e3d4832546",
+            "Value": {
+                "id": "04bed39f-477b-4fa5-935e-8b76d30170f4",
+                "resourcePath": "sprites\\spr_player_armor\\spr_player_armor.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
