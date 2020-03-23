@@ -2,7 +2,7 @@
     "id": "0e0ab445-eee4-4e5d-bb89-fb38b5c973a0",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "banshee_idle",
+    "name": "spr_banshee_idle",
     "For3D": false,
     "HTile": false,
     "VTile": false,

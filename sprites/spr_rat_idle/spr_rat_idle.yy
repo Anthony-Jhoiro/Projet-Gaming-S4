@@ -2,7 +2,7 @@
     "id": "01b344c3-5c1c-4962-bfbe-c68533d58323",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "rat_idle",
+    "name": "spr_rat_idle",
     "For3D": false,
     "HTile": false,
     "VTile": false,

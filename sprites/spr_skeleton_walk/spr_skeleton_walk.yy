@@ -2,7 +2,7 @@
     "id": "6d51dc63-2755-4b92-b005-891f9821eb7c",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "skeleton_walk",
+    "name": "spr_skeleton_walk",
     "For3D": false,
     "HTile": false,
     "VTile": false,

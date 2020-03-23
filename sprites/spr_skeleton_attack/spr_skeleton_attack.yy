@@ -2,7 +2,7 @@
     "id": "b6a71ac9-c6e6-4c24-bcbd-ade21dd6d882",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "skeleton_attack",
+    "name": "spr_skeleton_attack",
     "For3D": false,
     "HTile": false,
     "VTile": false,

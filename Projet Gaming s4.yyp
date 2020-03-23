@@ -34,7 +34,7 @@
             "Key": "016835d1-fa79-4354-9e62-1f3edc8e8d8f",
             "Value": {
                 "id": "5c66db55-61c4-4518-ad3c-cf950c13cc56",
-                "resourcePath": "sprites\\rat_walk\\rat_walk.yy",
+                "resourcePath": "sprites\\spr_rat_walk\\spr_rat_walk.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -42,7 +42,7 @@
             "Key": "01b344c3-5c1c-4962-bfbe-c68533d58323",
             "Value": {
                 "id": "dd1959e2-b9c1-4310-9737-c4501707f6ee",
-                "resourcePath": "sprites\\rat_idle\\rat_idle.yy",
+                "resourcePath": "sprites\\spr_rat_idle\\spr_rat_idle.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -58,7 +58,7 @@
             "Key": "0e0ab445-eee4-4e5d-bb89-fb38b5c973a0",
             "Value": {
                 "id": "911b11f0-654b-467f-bb4d-e7a4ba480f18",
-                "resourcePath": "sprites\\banshee_idle\\banshee_idle.yy",
+                "resourcePath": "sprites\\spr_banshee_idle\\spr_banshee_idle.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -66,7 +66,15 @@
             "Key": "160c6e02-ca2f-4ab3-8fd8-48f5a5b7088f",
             "Value": {
                 "id": "c64a644f-65a6-4b47-af3a-1773e9474ba8",
-                "resourcePath": "sprites\\skeletton_dying\\skeletton_dying.yy",
+                "resourcePath": "sprites\\spr_skeletton_dying\\spr_skeletton_dying.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1cf12833-b4b2-4e7d-9526-c6cbbae3850c",
+            "Value": {
+                "id": "d5e19041-f4f3-43ea-9040-5f3937487cd4",
+                "resourcePath": "sprites\\spr_sprite10\\spr_sprite10.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -106,7 +114,7 @@
             "Key": "6d51dc63-2755-4b92-b005-891f9821eb7c",
             "Value": {
                 "id": "370e2192-da7b-4e81-a54f-cde7201cf3be",
-                "resourcePath": "sprites\\skeleton_walk\\skeleton_walk.yy",
+                "resourcePath": "sprites\\spr_skeleton_walk\\spr_skeleton_walk.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -210,7 +218,7 @@
             "Key": "b6a71ac9-c6e6-4c24-bcbd-ade21dd6d882",
             "Value": {
                 "id": "131af084-fcc6-47fa-850d-20fcccfa4ac1",
-                "resourcePath": "sprites\\skeleton_attack\\skeleton_attack.yy",
+                "resourcePath": "sprites\\spr_skeleton_attack\\spr_skeleton_attack.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -226,7 +234,7 @@
             "Key": "c2038c62-868c-498e-97c3-6b6c84bd8b5b",
             "Value": {
                 "id": "bdfc3fb7-6716-4cd0-9952-aca23b3d56e5",
-                "resourcePath": "sprites\\skeleton_idle\\skeleton_idle.yy",
+                "resourcePath": "sprites\\spr_skeleton_idle\\spr_skeleton_idle.yy",
                 "resourceType": "GMSprite"
             }
         },

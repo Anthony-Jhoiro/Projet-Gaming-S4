@@ -2,7 +2,7 @@
     "id": "160c6e02-ca2f-4ab3-8fd8-48f5a5b7088f",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "skeletton_dying",
+    "name": "spr_skeletton_dying",
     "For3D": false,
     "HTile": false,
     "VTile": false,

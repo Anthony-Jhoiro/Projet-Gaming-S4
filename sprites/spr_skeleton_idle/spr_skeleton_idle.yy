@@ -2,7 +2,7 @@
     "id": "c2038c62-868c-498e-97c3-6b6c84bd8b5b",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "skeleton_idle",
+    "name": "spr_skeleton_idle",
     "For3D": false,
     "HTile": false,
     "VTile": false,
