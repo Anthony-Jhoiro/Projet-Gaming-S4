@@ -2,7 +2,7 @@
     "id": "016835d1-fa79-4354-9e62-1f3edc8e8d8f",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "rat_walk",
+    "name": "spr_rat_walk",
     "For3D": false,
     "HTile": false,
     "VTile": false,
