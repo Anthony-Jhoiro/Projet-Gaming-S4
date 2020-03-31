@@ -1,10 +1,10 @@
 {
-    "id": "31c2e591-eacd-4edc-b8a8-11aa5a98f2c3",
+    "id": "1aae3e6e-1120-4f47-90c9-f7574c55bbee",
     "modelName": "GMFolder",
     "mvc": "1.1",
-    "name": "31c2e591-eacd-4edc-b8a8-11aa5a98f2c3",
+    "name": "1aae3e6e-1120-4f47-90c9-f7574c55bbee",
     "children": [
-        "0e0ab445-eee4-4e5d-bb89-fb38b5c973a0"
+        "96aa559f-9405-4ada-a93c-bcceacb5ee43"
     ],
     "filterType": "GMSprite",
     "folderName": "banshee",
