@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "9dfe1b7f-bc1d-4837-932b-fcd18679cb3e",
+            "Value": {
+                "id": "8510b320-2146-43fb-ac08-bf8eed0d1e0c",
+                "resourcePath": "sprites\\spr_sword_green\\spr_sword_green.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9e2a43cb-893a-4598-a85f-7a770311ce63",
             "Value": {
                 "id": "7a2d05a7-60fe-4dcf-907b-6875193bbef1",
