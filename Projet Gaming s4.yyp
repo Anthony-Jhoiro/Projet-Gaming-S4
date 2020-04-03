@@ -175,10 +175,18 @@
             }
         },
         {
+            "Key": "48cb3784-b966-4fc7-aa01-e6d344deb1f2",
+            "Value": {
+                "id": "5dfcd70a-326a-456c-a405-ad34a586cec2",
+                "resourcePath": "tilesets\\tileset_village\\tileset_village.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "497b12ac-858a-40d0-8674-3efa15f2e365",
             "Value": {
                 "id": "26f0b855-aaee-4bc6-b8c7-c6e2005403a7",
-                "resourcePath": "tilesets\\tileset0\\tileset0.yy",
+                "resourcePath": "tilesets\\tileset_dungeon\\tileset_dungeon.yy",
                 "resourceType": "GMTileSet"
             }
         },
@@ -463,6 +471,14 @@
             }
         },
         {
+            "Key": "b6c9a1d4-2dcc-4e45-932e-3e0d448830f5",
+            "Value": {
+                "id": "40ed5266-725f-410d-9b57-72d8092a1257",
+                "resourcePath": "tilesets\\tileset_grassland\\tileset_grassland.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "b7e218f4-a9cb-4dbf-afb4-c5aa9b5b288d",
             "Value": {
                 "id": "7ec3f862-3b83-4b9e-a9d0-36b9f9f64ade",
@@ -559,6 +575,14 @@
             }
         },
         {
+            "Key": "d6e49000-2be6-4982-9a91-178a604f297c",
+            "Value": {
+                "id": "589fa0bd-f61c-48cd-a85e-79666ce1adae",
+                "resourcePath": "rooms\\room1\\room1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "d8dccb03-c870-4d95-9403-b64aafed8818",
             "Value": {
                 "id": "94cc0494-fa5e-457c-bae2-5ff6e2213f8f",
@@ -572,6 +596,14 @@
                 "id": "2065300d-f0ac-49d0-8c33-044c3337c203",
                 "resourcePath": "views\\e131817a-60f9-42a4-b9d2-91dea7dc4ee0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e33b1354-5251-4409-a115-d9196f5ad545",
+            "Value": {
+                "id": "5283c294-9579-4e14-9667-bb50e84a4da0",
+                "resourcePath": "sprites\\spr_tile_set_grassland\\spr_tile_set_grassland.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -615,6 +647,14 @@
             }
         },
         {
+            "Key": "f4cb3c62-518a-4ec7-bc70-6ea936c3b407",
+            "Value": {
+                "id": "6e846e34-db86-490f-b13b-93a17606aad8",
+                "resourcePath": "sprites\\spr_tile_set_village\\spr_tile_set_village.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f7b80090-cc8b-4413-b9ef-308efac7b36c",
             "Value": {
                 "id": "5513b80f-a679-4109-9920-0ff1447da5a6",
@@ -631,7 +671,6 @@
             }
         },
         {
-            
             "Key": "f8cff6a9-25d6-4223-9058-fa1d8969b290",
             "Value": {
                 "id": "613ce02c-933b-413c-8f2e-1c56177102ce",
