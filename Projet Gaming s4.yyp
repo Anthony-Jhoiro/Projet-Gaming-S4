@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "10aa9af9-cc90-4b5c-8c4b-dbbac3594b17",
+            "Value": {
+                "id": "ae27f0ac-5e8a-4a33-9591-4d09273aa752",
+                "resourcePath": "views\\10aa9af9-cc90-4b5c-8c4b-dbbac3594b17.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "138841b0-b923-40bd-ae55-d7088a6876dd",
             "Value": {
                 "id": "a9e8fda4-edd7-45bc-9047-2bcde9e42690",
@@ -239,6 +247,14 @@
             }
         },
         {
+            "Key": "4de8dfb9-d5f9-45c2-9ab8-dbf68ee4549d",
+            "Value": {
+                "id": "168fcca1-97cf-4e28-8b72-684bcf8ce152",
+                "resourcePath": "tilesets\\tileset_dungeon_32x32\\tileset_dungeon_32x32.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "505b5334-e1b7-49f4-b082-96c23c09bc6a",
             "Value": {
                 "id": "4742f7c1-ad34-4cd1-b229-24432865fb6e",
@@ -287,6 +303,14 @@
             }
         },
         {
+            "Key": "5be4424f-6052-4c82-813e-d3db84f98a68",
+            "Value": {
+                "id": "6d353962-2a2b-4c65-89fa-4a3944ce7a40",
+                "resourcePath": "sprites\\spr_tile_set_village_32x32\\spr_tile_set_village_32x32.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "61b633f9-1e87-4888-9943-af44ea4d4de6",
             "Value": {
                 "id": "938cf9c7-41f5-44d0-9284-666415e2d7a8",
@@ -316,6 +340,22 @@
                 "id": "d0c656dc-5c4d-407e-9849-624cf2d3e901",
                 "resourcePath": "sprites\\spr_player_armor\\spr_player_armor.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6a49eaf0-3dc6-4200-8152-2d8982a892e3",
+            "Value": {
+                "id": "81091d96-aac0-4530-b448-f47fb29b638c",
+                "resourcePath": "sprites\\spr_tile_set_backgrounf_32x32\\spr_tile_set_backgrounf_32x32.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6cedb32d-fd0f-4356-9f97-05b47a4cd30d",
+            "Value": {
+                "id": "d0bd5890-dea0-434f-a122-d828089c51e6",
+                "resourcePath": "tilesets\\tileset_village_32x32\\tileset_village_32x32.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -396,6 +436,14 @@
                 "id": "a8fa7b7a-97f9-4bf9-8f34-3daf4c6180e2",
                 "resourcePath": "sprites\\spr_rat_idle_min\\spr_rat_idle_min.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "86a87a50-7866-412d-8c12-db4e9fbd81b7",
+            "Value": {
+                "id": "499a95f1-6327-474c-b998-06e1a0e4834a",
+                "resourcePath": "views\\86a87a50-7866-412d-8c12-db4e9fbd81b7.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -647,6 +695,14 @@
             }
         },
         {
+            "Key": "b69e9531-a575-4c15-94d1-914f5dea0cab",
+            "Value": {
+                "id": "5f5c473c-b52e-4e20-8df1-cbc2bd703212",
+                "resourcePath": "rooms\\village\\village.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "b6c9a1d4-2dcc-4e45-932e-3e0d448830f5",
             "Value": {
                 "id": "40ed5266-725f-410d-9b57-72d8092a1257",
@@ -668,6 +724,14 @@
                 "id": "8391f538-e0f3-4e04-b238-ee6fa0bc5047",
                 "resourcePath": "sprites\\spr_old_man_idle\\spr_old_man_idle.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b90e92df-efa3-4182-ba81-4315eb2f5589",
+            "Value": {
+                "id": "55989627-c538-4025-82d4-cd08cea5b3e1",
+                "resourcePath": "views\\b90e92df-efa3-4182-ba81-4315eb2f5589.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -855,6 +919,14 @@
             }
         },
         {
+            "Key": "ec8ccca3-4304-4b86-8c63-6a4d48eae02b",
+            "Value": {
+                "id": "c5b82aec-e287-44aa-8fed-6783a11cac4e",
+                "resourcePath": "tilesets\\tileset_grassland_32x32\\tileset_grassland_32x32.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "f225e264-63aa-4874-910e-41b196663ee3",
             "Value": {
                 "id": "1dce3706-4707-4dab-a340-7a5447d53598",
@@ -895,6 +967,14 @@
             }
         },
         {
+            "Key": "f86f4a9a-1d2f-459f-95d2-20ec3747d84c",
+            "Value": {
+                "id": "8b6b7484-35f3-4189-95bf-deb189d5544b",
+                "resourcePath": "objects\\obj_old_man\\obj_old_man.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f8cff6a9-25d6-4223-9058-fa1d8969b290",
             "Value": {
                 "id": "613ce02c-933b-413c-8f2e-1c56177102ce",
@@ -908,6 +988,14 @@
                 "id": "15dd14c8-b4a8-48b8-be62-e13d19084884",
                 "resourcePath": "objects\\obj_dialog\\obj_dialog.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fc9f54ac-505f-40c7-864e-ea3a6e459bc9",
+            "Value": {
+                "id": "a9c049da-df37-4f49-95a8-84ac14ced262",
+                "resourcePath": "sprites\\spr_tile_set_grassland_32x32\\spr_tile_set_grassland_32x32.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
