@@ -30,7 +30,8 @@ else {
 }
 
 if (currentMessage == array_length_1d(dialogue)) {
-	currentMessage = 0;
+	instance_activate_layer("Instances");
+	instance_destroy();
 } else {
 	messageDraw = string_copy(textes[0], 0, displayChar);
 }
