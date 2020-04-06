@@ -3,5 +3,5 @@
 
 grv = .5
 
-defaultSpeed = 2;
-jumpHeight = -6;
+defaultSpeed = 4;
+jumpHeight = -12;
