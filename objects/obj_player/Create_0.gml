@@ -3,8 +3,5 @@
 
 grv = .5
 
-defaultSpeed = 4;
-jumpHeight = -10;
-
-image_yscale = .25;
-image_xscale = .25;
+defaultSpeed = 2;
+jumpHeight = -6;
