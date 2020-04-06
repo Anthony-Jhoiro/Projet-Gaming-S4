@@ -679,14 +679,6 @@
             }
         },
         {
-            "Key": "c96e9a83-f441-4aec-a38d-d3a748416212",
-            "Value": {
-                "id": "32a74ae2-c7ab-4a07-9912-62792ba2a296",
-                "resourcePath": "sprites\\spr_rabbit_run_test\\spr_rabbit_run_test.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "c9e5cbd7-a54c-4a67-b078-86b27fbfc3bb",
             "Value": {
                 "id": "9eb6fdec-a934-4b15-b51b-a398d929338c",
