@@ -791,6 +791,14 @@
             }
         },
         {
+            "Key": "c2053895-a733-4bba-b6cd-2cb330e1d7c1",
+            "Value": {
+                "id": "02d8278d-e520-4239-9731-cf75ed1a2e24",
+                "resourcePath": "objects\\obj_bat\\obj_bat.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c6dfcd60-7949-498e-83e5-94403040c075",
             "Value": {
                 "id": "2fc310ee-ca17-4af1-a359-df36cc2ba47f",
