@@ -1,18 +1,38 @@
 {
-    "id": "7af2ed14-1687-492d-9a77-167533b10843",
+    "id": "721b78f8-ec38-40d6-ade2-2f27c47fce54",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_room_object",
+    "name": "obj_chest",
     "eventList": [
         {
-            "id": "1e196685-9775-44eb-8b8a-3ce3195687b5",
+            "id": "4e1b89fe-a4c6-4b98-a693-f2851c6655b1",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "d5bb889a-a21e-4c11-b14a-1d013fe60eaf",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "721b78f8-ec38-40d6-ade2-2f27c47fce54"
+        },
+        {
+            "id": "09824dd5-904f-4ae0-8ed4-7753b1c0e188",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 7,
+            "eventtype": 7,
+            "m_owner": "721b78f8-ec38-40d6-ade2-2f27c47fce54"
+        },
+        {
+            "id": "143364a7-5d4a-4dd6-92c4-fdb1cede0b64",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "7af2ed14-1687-492d-9a77-167533b10843"
+            "m_owner": "721b78f8-ec38-40d6-ade2-2f27c47fce54"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,7 +53,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "fd5b8f8a-413b-4a18-a749-d711cd56898b",
+            "id": "9e8296dc-2d75-45c7-91c0-696957dfd0ef",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -45,23 +65,9 @@
             "value": "0",
             "varName": "lootNb",
             "varType": 1
-        },
-        {
-            "id": "b855b3ad-9400-480f-989f-57c2e6041525",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "enventNb",
-            "varType": 0
         }
     ],
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "a011d925-9bac-46bc-9967-b7f9ef305c8f",
     "visible": true
 }
