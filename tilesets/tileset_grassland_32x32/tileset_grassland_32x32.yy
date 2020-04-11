@@ -4,7 +4,56 @@
     "mvc": "1.11",
     "name": "tileset_grassland_32x32",
     "auto_tile_sets": [
-        
+        {
+            "id": "c20712ce-cafe-4bb0-aadd-32982963af6e",
+            "modelName": "GMAutoTileSet",
+            "mvc": "1.0",
+            "closed_edge": false,
+            "name": "autotile_1",
+            "tiles": [
+                28,
+                27,
+                29,
+                3,
+                77,
+                51,
+                5,
+                2,
+                79,
+                6,
+                55,
+                4,
+                103,
+                102,
+                104,
+                1
+            ]
+        },
+        {
+            "id": "03879b44-583d-4495-b382-bfab3494f346",
+            "modelName": "GMAutoTileSet",
+            "mvc": "1.0",
+            "closed_edge": false,
+            "name": "autotile_2",
+            "tiles": [
+                278,
+                277,
+                279,
+                253,
+                327,
+                301,
+                225,
+                252,
+                329,
+                0,
+                305,
+                254,
+                353,
+                352,
+                354,
+                230
+            ]
+        }
     ],
     "macroPageTiles": {
         "SerialiseData": null,
