@@ -8,7 +8,7 @@
         "bfcb7435-20b0-4507-b553-2a57508e9845"
     ],
     "filterType": "GMObject",
-    "folderName": "niveau_intro",
+    "folderName": "niveaux",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

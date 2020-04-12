@@ -3,4 +3,8 @@
 
 // Set up global variables
 
-global.pause = false;
+global.pause = false
+
+global.niveau = self;
+
+leverNb = 0;
