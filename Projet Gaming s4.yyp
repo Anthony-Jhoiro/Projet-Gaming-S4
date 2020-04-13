@@ -39,14 +39,6 @@
             }
         },
         {
-            "Key": "03c115f3-bd0b-462e-b419-1f8e762b4a87",
-            "Value": {
-                "id": "b83dbc26-f089-4983-ace7-bc18d4343568",
-                "resourcePath": "sprites\\spr_player_idle\\spr_player_idle.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "0492380e-5bda-40dc-a9a5-1a9a76a31873",
             "Value": {
                 "id": "74777083-35bb-47f8-94ce-31ddda1a72aa",
@@ -339,14 +331,6 @@
             "Value": {
                 "id": "27da2bf2-c2ab-4a9d-85f4-0664a0da16f6",
                 "resourcePath": "sprites\\spr_skeleton_dying\\spr_skeleton_dying.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "681b1bc7-a0a6-41cf-b392-4f2bfed8b2b8",
-            "Value": {
-                "id": "d0c656dc-5c4d-407e-9849-624cf2d3e901",
-                "resourcePath": "sprites\\spr_player_armor\\spr_player_armor.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -691,14 +675,6 @@
             "Value": {
                 "id": "531c2f11-39aa-4265-9071-3046f5529120",
                 "resourcePath": "sprites\\spr_witch_walk\\spr_witch_walk.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "b438fa35-e846-405f-86bc-9de498685a68",
-            "Value": {
-                "id": "a4b9f617-b8f1-45d5-9fd9-c1317c8929a2",
-                "resourcePath": "sprites\\spr_player_armor_min\\spr_player_armor_min.yy",
                 "resourceType": "GMSprite"
             }
         },
