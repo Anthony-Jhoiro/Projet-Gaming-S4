@@ -9,7 +9,7 @@
             "modelName": "GMAutoTileSet",
             "mvc": "1.0",
             "closed_edge": false,
-            "name": "autotile_1",
+            "name": "grass",
             "tiles": [
                 28,
                 27,
@@ -34,7 +34,7 @@
             "modelName": "GMAutoTileSet",
             "mvc": "1.0",
             "closed_edge": false,
-            "name": "autotile_2",
+            "name": "rock",
             "tiles": [
                 278,
                 277,
@@ -52,6 +52,81 @@
                 352,
                 354,
                 230
+            ]
+        },
+        {
+            "id": "fd4de54c-c2b9-4954-b012-9f653a03d2cd",
+            "modelName": "GMAutoTileSet",
+            "mvc": "1.0",
+            "closed_edge": false,
+            "name": "tree_light",
+            "tiles": [
+                428,
+                402,
+                404,
+                378,
+                452,
+                426,
+                0,
+                377,
+                454,
+                0,
+                430,
+                379,
+                478,
+                477,
+                479,
+                1
+            ]
+        },
+        {
+            "id": "a7f81cc6-e414-4429-b746-b535b86b9f9f",
+            "modelName": "GMAutoTileSet",
+            "mvc": "1.0",
+            "closed_edge": false,
+            "name": "tree_dark",
+            "tiles": [
+                531,
+                505,
+                507,
+                481,
+                555,
+                529,
+                0,
+                480,
+                557,
+                0,
+                533,
+                482,
+                581,
+                580,
+                582,
+                0
+            ]
+        },
+        {
+            "id": "7e010009-7311-484a-9862-cc31897e3a16",
+            "modelName": "GMAutoTileSet",
+            "mvc": "1.0",
+            "closed_edge": false,
+            "name": "dark_rock",
+            "tiles": [
+                362,
+                337,
+                339,
+                313,
+                387,
+                361,
+                0,
+                312,
+                389,
+                0,
+                365,
+                314,
+                413,
+                412,
+                414,
+                0
             ]
         }
     ],
