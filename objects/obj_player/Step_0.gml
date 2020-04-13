@@ -1,10 +1,23 @@
-/// @description Insérez la description ici
+ /// @description Insérez la description ici
 // Vous pouvez écrire votre code dans cet éditeur
 
 show_debug_message(camera_get_view_y(view_get_camera(0)))
 
 diremove = keyboard_check(vk_right) - keyboard_check(vk_left);
 press_jump = keyboard_check(vk_space);
+diregard = 1;
+
+image_xscale = sign(diregard);
+if(press_jump){
+	sprite_index = spr_player_jump_new;
+}
+else if(diremove == 1 || diremove == -1){
+	sprite_index = spr_player_walk_new;
+	diregard = diremove;
+}
+else {
+	sprite_index = spr_player_idle_new;
+}
 
 hspeed = diremove * defaultSpeed;
 
