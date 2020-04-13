@@ -1,11 +1,13 @@
 /// @description Insérez la description ici
 // Vous pouvez écrire votre code dans cet éditeur
 
+draw_sprite_ext(screenShot,0,0,0,1,1,0,c_white,1);
+
+
 draw_set_alpha(0.8);
 draw_set_colour(c_black);
 
 draw_rectangle(view_xport[0], 0, view_xport[0]+view_wport[0], 75, false);
-
 
 draw_set_alpha(1);
 draw_set_colour(c_white);

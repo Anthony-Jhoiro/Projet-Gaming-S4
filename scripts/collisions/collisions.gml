@@ -1,8 +1,8 @@
 // Full colisions
 
 // Handle horizontal collisions
-if (place_meeting(x+hspeed, y, obj_collision_full)) {
-	while (!place_meeting(x+sign(hspeed), y, obj_collision_full)) {
+if ((place_meeting(x+hspeed, y, obj_collision_full) or x+hspeed < 0 or x+hspeed > room_width)) {
+	while (!((place_meeting(x+hspeed, y, obj_collision_full) or x+hspeed < 0 or x+hspeed > room_width))) {
 		x += sign(hspeed);
 	}
 	hspeed = 0;

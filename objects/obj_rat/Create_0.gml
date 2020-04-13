@@ -7,10 +7,8 @@ defaultSpeed = 2;
 
 bombe = false;
 
-hspeed = -3;
+
+
+go = false;
 
 timeBeforeBomb = random(90);
-
-alarm_set(0, timeBeforeBomb);
-
-show_debug_message(timeBeforeBomb);

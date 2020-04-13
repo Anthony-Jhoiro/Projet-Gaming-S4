@@ -5,4 +5,4 @@ event_inherited();
 
 defaultSpeed = 2;
 
-attaque= false;
+saute = false;
