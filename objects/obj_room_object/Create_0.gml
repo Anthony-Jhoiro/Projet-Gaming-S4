@@ -9,4 +9,8 @@ global.pause = false
 
 global.niveau = self;
 
+global.reponse = 0;
+
+global.dialogue = false;
+
 leverNb = 0;

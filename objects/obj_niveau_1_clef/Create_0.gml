@@ -1,7 +1,6 @@
 /// @description Insérez la description ici
 // Vous pouvez écrire votre code dans cet éditeur
 
-grv = .5
+event_inherited();
 
-defaultSpeed = 4;
-jumpHeight = -12;
+getKey = false;

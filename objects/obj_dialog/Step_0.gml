@@ -19,8 +19,7 @@ else {
 			displayChar = 0;
 			currentMessage++;
 			displayMenue = false;
-			global.reponse = currentItem
-			event_user(0);
+			global.reponse = currentItem +1;
 		}
 	} else if (keyboard_check_pressed(vk_enter)) {
 		displayChar = 0;
