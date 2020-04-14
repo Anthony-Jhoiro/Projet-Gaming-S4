@@ -1,18 +1,18 @@
 {
-    "id": "639c527d-70d6-4143-ab49-f115ca86463b",
+    "id": "a3355cf8-02b2-4a54-87d9-16611ad8abc0",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_hurting_collision",
+    "name": "obj_gameOver",
     "eventList": [
         {
-            "id": "22aef3f7-579a-42e5-b9d2-6f1b21be7517",
+            "id": "847daeb0-7c21-4168-b05f-6f1618be277d",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "639c527d-70d6-4143-ab49-f115ca86463b"
+            "enumb": 1,
+            "eventtype": 9,
+            "m_owner": "a3355cf8-02b2-4a54-87d9-16611ad8abc0"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "ac2d5ef9-ff23-4f38-af63-3fc7d8ae6a5f",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

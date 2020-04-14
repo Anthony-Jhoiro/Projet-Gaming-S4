@@ -8,7 +8,7 @@ var dist = abs(distanceFromPLayer);
 var dir = sign(distanceFromPLayer);
 
 
-if (dist < 200 and canAttack) {
+if (dist < 200 and canAttack and canMove) {
 	if (dist > 30) {
 		// Se déplacer vers le joueur
 		hspeed = defaultSpeed * dir;

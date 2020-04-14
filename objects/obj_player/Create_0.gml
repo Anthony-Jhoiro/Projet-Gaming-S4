@@ -7,6 +7,11 @@ is_attacking = false;
 defaultSpeed = 4;
 jumpHeight = -12;
 
+health = 100;
+
+canHaveDommages = true;
+canMove = true;
+
 hitbox = -1;
 
 global.player_x = x;

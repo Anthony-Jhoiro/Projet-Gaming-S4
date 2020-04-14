@@ -5,6 +5,9 @@ event_inherited();
 
 defaultSpeed = 2;
 
+damage = 5;
+pv = 10;
+
 bombe = false;
 
 

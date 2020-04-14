@@ -8,4 +8,7 @@ if(canHaveDommages){
 	}
 	canHaveDommages = false;
 	alarm[11] = 20;
+	canMove = false;
+	dirEjection = sign(x - obj_player.x);
+	alarm[10] = 30;
 }

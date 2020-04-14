@@ -1,10 +1,4 @@
 /// @description Insérez la description ici
 // Vous pouvez écrire votre code dans cet éditeur
 
-event_inherited();
-
-defaultSpeed = 2.5;
-canAttack = true;
-
-damage = 34;
-pv = 20;
+draw_healthbar(20, 5, 150, 10, health, c_black, c_red, c_green, 0, true, false);
