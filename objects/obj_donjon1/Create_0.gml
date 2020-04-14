@@ -6,3 +6,5 @@ event_inherited();
 introSpeech = false;
 
 out = false;
+
+audio_play_sound(snd_donjon, 100, true);
