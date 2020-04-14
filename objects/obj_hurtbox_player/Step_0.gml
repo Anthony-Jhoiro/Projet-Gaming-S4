@@ -1,10 +1,5 @@
 /// @description Insérez la description ici
 // Vous pouvez écrire votre code dans cet éditeur
 
-event_inherited();
-
-defaultSpeed = 2.5;
-
-canAttack = true
-
-health = 20;
+    x = owner.x + xOffset;
+    y = owner.y + yOffset;

@@ -8,7 +8,7 @@ press_jump = keyboard_check(vk_space);
 if((press_jump or not place_meeting(x, y+1, obj_collision)) and not is_attacking){
 	sprite_index = spr_player_jump;
 }
-else if(diremove == 1 || diremove == -1 and not is_attacking){
+else if((diremove == 1 || diremove == -1) and not is_attacking){
 	sprite_index = spr_player_walk_new;
 }
 else if(not is_attacking){
@@ -17,15 +17,19 @@ else if(not is_attacking){
 
 if(keyboard_check_pressed(vk_anykey)){
 	if(keyboard_key == 79){
-		sprite_index = spr_player_attack;
-		instance_create_depth(x, y, depth, obj_player_epee)
+		sprite_index = spr_player_attack_epee;
+		alarm_set(1, 1)
 		is_attacking = true;
 	}
 }
+if(not is_attacking){
+	hspeed = diremove * defaultSpeed;	
+}
+else{
+	hspeed = 0;
+}
 
-hspeed = diremove * defaultSpeed;
-
-vspeed += grv
+vspeed += grv;
 
 if (press_jump and place_meeting(x, y+1, obj_collision)) {
 	vspeed = jumpHeight;
@@ -38,7 +42,8 @@ else if(keyboard_check(vk_left)){
 	image_xscale = -1;
 }
 
-global.player_x = x
-global.player_y = y
+global.player_x = x;
+global.player_y = y;
+global.player_direction = image_xscale;
 
 collisions();

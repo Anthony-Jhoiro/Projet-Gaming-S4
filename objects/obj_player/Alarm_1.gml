@@ -1,10 +1,6 @@
 /// @description Insérez la description ici
 // Vous pouvez écrire votre code dans cet éditeur
 
-event_inherited();
+hitbox = hurtbox_player(image_xscale * 32, 64, sprite_width * 4/5, 10);
 
-defaultSpeed = 2.5;
-
-canAttack = true
-
-health = 20;
+alarm_set(2, 21);

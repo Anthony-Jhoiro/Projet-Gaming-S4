@@ -1,10 +1,7 @@
 /// @description Insérez la description ici
 // Vous pouvez écrire votre code dans cet éditeur
 
-event_inherited();
-
-defaultSpeed = 2.5;
-
-canAttack = true
-
-health = 20;
+image_alpha = 0.5;
+owner = -1;
+xOffset = 0;
+yOffset = 0;
