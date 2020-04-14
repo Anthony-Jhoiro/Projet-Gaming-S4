@@ -5,9 +5,12 @@ event_inherited();
 
 out = false;
 
-if not variable_global_exists("global.progression") {
-	global.progression = 2;
-}
 
-
-destinations = ["Où veux tu aller ?", "Prairie avec de l'herbe", "dongon pas beau", "PENSER A TROUVER UN NOM"];
+destinations = [
+	"Où veux tu aller ?", 
+	"Prairie avec de l'herbe", 
+	"Grotte orange",
+	"dongon pas beau", 
+	"L'autre plaine",
+	"[NOM DU DERNIER NIVEAU]"
+];

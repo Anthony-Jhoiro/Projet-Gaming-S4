@@ -13,11 +13,8 @@ dialogue = [
 	]
 ];
 
-actions = [
-	[coucou, "answer yes"],
-	[coucou, "answer no"],
-	[coucou, "answer zralabardjan"]
-];
+reponsesIndex = [];
+
 
 currentMessage = 0;
 displayChar = 0;

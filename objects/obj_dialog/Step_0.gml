@@ -16,10 +16,11 @@ else {
 	if (array_length_1d(textes) > 1) {
 		displayMenue = true;
 		if (keyboard_check_pressed(vk_enter) and displayMenue) {
+			var repQuestion = reponsesIndex[currentMessage]
+			global.reponse = repQuestion[currentItem];
 			displayChar = 0;
 			currentMessage++;
 			displayMenue = false;
-			global.reponse = currentItem +1;
 		}
 	} else if (keyboard_check_pressed(vk_enter)) {
 		displayChar = 0;

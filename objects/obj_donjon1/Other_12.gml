@@ -5,13 +5,17 @@ message = "Le numero de loot n'a pas ete trouve";
 
 switch(lootNb) {
 	case 1:
-		message = "Obtenue : 100 golds";
+		message = [["Obtenue : 100 golds"]];
 		break;
 	case 2:
-		message = "Obtenue : Un canard tout mignon";
+		message = [["Obtenue : Un canard tout mignon"]];
+		break;	
+	case 3:
+		message = [["Obtenue : Un message !"], ["Mais vous ne savez pas lire donc vous décidez de la ramener au village"]];
+		out = true;
+		global.progression = 5;
 		break;
-		
 		
 }
 
-scr_dialogue([[message]]);
+scr_dialogue(message);

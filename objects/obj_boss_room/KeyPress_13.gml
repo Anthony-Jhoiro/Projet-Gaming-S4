@@ -1,3 +1,4 @@
 /// @description Insérez la description ici
 // Vous pouvez écrire votre code dans cet éditeur
-global.reponse = -1
+
+room_goto(village);

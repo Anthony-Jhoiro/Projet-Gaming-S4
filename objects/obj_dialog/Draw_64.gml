@@ -13,14 +13,26 @@ draw_set_alpha(1);
 draw_set_colour(c_white);
 draw_text_ext(view_xport[0] + 10, 20, messageDraw, -1, room_width -20);
 
+textWidth = 5;
+
+
+
 if (displayMenue) {	
 	messages = dialogue[currentMessage];
 	nbChoix = array_length_1d(messages) ;
 	
+	// Récupérer la largeur de la proposition la plus longue
+	for(i = 1; i < nbChoix; i++) {	
+		var w = string_width(messages[i]);
+		if textWidth < w {
+			textWidth = w;
+		}
+	}
+	
 	// draw box
 	draw_set_alpha(0.8);
 	draw_set_colour(c_black);
-	draw_rectangle(view_xport[0] + 10, 85, view_xport[0]+200, 95 + (20 * (nbChoix-1)), false);
+	draw_rectangle(view_xport[0] + 10, 85, view_xport[0]+textWidth+50, 95 + (20 * (nbChoix-1)), false);
 	
 	// draw text
 	draw_set_alpha(1);
