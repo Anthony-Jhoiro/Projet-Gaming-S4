@@ -3,4 +3,7 @@
 
 if(canHaveDommages){
 	health -= 10;
+	canHaveDommages = false;
+	show_message(health);
+	alarm[0] = 20;
 }
