@@ -4,6 +4,7 @@
 event_inherited();
 
 texteIntro = false;
+texteCoffre = false;
 
 audio_stop_all();
 

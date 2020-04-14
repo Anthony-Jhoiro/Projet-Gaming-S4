@@ -11,3 +11,5 @@ if (keyboard_check(vk_enter) and not opened) {
 		instance_create_layer(x,y,"Instances", obj_coin);
 	}
 }
+
+event_user(3);

@@ -5,4 +5,4 @@ if (!texteIntro) {
 	scr_dialogue([
 	["Bonjour et bienvenue ! (Pour passer : [ENTER])"], ["Pour commencer, rendez vous au village !"],["Utilisez [ESPACE] pour sauter et [HAUT] pour attaquer"]]);
 	texteIntro = true;
-}
+}   
