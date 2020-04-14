@@ -14,3 +14,10 @@ destinations = [
 	"L'autre plaine",
 	"[NOM DU DERNIER NIVEAU]"
 ];
+
+if(global.progression < 10){
+	audio_play_sound(snd_village, 100, true);	
+}
+else {
+	audio_play_sound(snd_ending, 100, true);
+}

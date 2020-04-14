@@ -1,4 +1,4 @@
- /// @description Insérez la description ici
+  /// @description Insérez la description ici
 // Vous pouvez écrire votre code dans cet éditeur
 
 diremove = keyboard_check(vk_right) - keyboard_check(vk_left);

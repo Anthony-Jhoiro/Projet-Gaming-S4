@@ -4,3 +4,5 @@
 event_inherited();
 
 texteIntro = false;
+
+audio_play_sound(snd_grassland, 100, true);

@@ -4,3 +4,5 @@
 event_inherited();
 
 out = false;
+
+audio_play_sound(snd_donjon, 100, true);

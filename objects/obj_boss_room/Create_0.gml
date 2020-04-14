@@ -3,5 +3,4 @@
 
 alarm_set(0, 3);
 
-global.progression = 10;
-
+audio_play_sound(snd_donjon, 100, true);
