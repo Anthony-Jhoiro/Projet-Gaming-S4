@@ -7,9 +7,9 @@ if (not out){
 
 
 	switch(global.progression) {
-		case 3:
+		case 5:
 			choix[3] = destinations[3];
-		case 2:
+		case 3:
 			choix[2] = destinations[2];
 		case 1:
 			choix[1] = destinations[1];

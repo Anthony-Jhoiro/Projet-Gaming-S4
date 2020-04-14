@@ -16,10 +16,13 @@ if (dist < 200 and canAttack) {
 	} else {
 		// Attaquer le joueur
 		canAttack = false;
-		alarm_set(0, 60)
+		alarm_set(0, 60);
+		alarm_set(1, 21);
 		hspeed = 0;
 		sprite_index = spr_skeleton_attack_min;
 		image_index = 0;
+		
+		
 		if (dir == -1) image_xscale = -1;
 	}
 	

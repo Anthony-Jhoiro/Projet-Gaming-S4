@@ -6,7 +6,7 @@ event_inherited();
 out = false;
 
 if not variable_global_exists("global.progression") {
-	global.progression = 0;
+	global.progression = 2;
 }
 
 
