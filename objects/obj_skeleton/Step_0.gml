@@ -33,8 +33,4 @@ if (dist < 200 and canAttack) {
 	sprite_index = spr_skeleton_idle_min;
 }
 
-if(health <= 0){
-	instance_destroy();
-}
-
 collisions()

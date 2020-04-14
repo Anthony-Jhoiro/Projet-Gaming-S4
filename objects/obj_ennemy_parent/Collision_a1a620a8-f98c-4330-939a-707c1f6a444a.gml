@@ -2,8 +2,10 @@
 // Vous pouvez écrire votre code dans cet éditeur
 
 if(canHaveDommages){
-	health -= 10;
+	pv -= 10;
+	if(pv <= 0){
+		instance_destroy();	
+	}
 	canHaveDommages = false;
-	show_message(health);
-	alarm[0] = 20;
+	alarm[11] = 20;
 }
