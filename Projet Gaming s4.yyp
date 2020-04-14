@@ -391,6 +391,14 @@
             }
         },
         {
+            "Key": "54b05f35-3814-4fd7-acaf-97fd75800c71",
+            "Value": {
+                "id": "d822707b-f802-4533-b4cc-922355ab6871",
+                "resourcePath": "objects\\obj_marchand\\obj_marchand.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "55fc7510-f75c-42c9-bf38-fa5b8452194e",
             "Value": {
                 "id": "f9a56bdf-4860-4fa8-b194-81e50e72c2bd",
