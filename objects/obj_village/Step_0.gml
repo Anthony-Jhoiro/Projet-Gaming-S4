@@ -37,5 +37,57 @@ switch (global.reponse) {
 			["Il sait lire et saura t'aider."]
 		]);
 		global.progression = 6;
+	
+	case 21:
+		// marchand : amélioration armure
+		if global.coins >= 600 {
+			global.coins -= 600;
+			scr_dialogue([["Votre armure a été améliorée"]]);
+			global.armure++;
+		} else {
+			scr_dialogue([["Vous n'avez pas assez d'argent"]]);
+		}
+		break;
+	case 22:
+		// marchand : amélioration arme
+		if global.coins >= 600 {
+			global.coins -= 600;
+			scr_dialogue([["Votre arme a été améliorée"]]);
+			global.arme++;
+		} else {
+			scr_dialogue([["Vous n'avez pas assez d'argent"]]);
+		}
+		break;
+	case 23:
+		// marchand : Holly Goat
+		if global.coins >= 1500 {
+			global.coins -= 1500;
+			scr_dialogue([["Elle a été volée, vous n'avez donc rien suivit ?"]]);
+			global.arme++;
+		} else {
+			scr_dialogue([["Vous n'avez pas assez d'argent"]]);
+		}
+		break;
+	case 24:
+		// marchand : ski à angle droit
+		if global.coins >= 100 {
+			global.coins -= 100;
+			scr_dialogue([["Devant l'innulité de cet objet, vous vous sentez important."]]);
+			global.arme++;
+		} else {
+			scr_dialogue([["Vous n'avez pas assez d'argent"]]);
+		}
+		break;
+	case 25:
+		// marchand : bonnet à ponpon
+		if global.coins >= 100 {
+			global.coins -= 100;
+			scr_dialogue([["Après plus ample reflexion, un casque c'est quand même mieux"]]);
+			global.arme++;
+		} else {
+			scr_dialogue([["Vous n'avez pas assez d'argent"]]);
+		}
+		break;
+		
 }
 global.reponse = 0;

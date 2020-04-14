@@ -1,12 +1,6 @@
 /// @description Insérez la description ici
 // Vous pouvez écrire votre code dans cet éditeur
 
-event_inherited();
-
-defaultSpeed = 2.5;
-canAttack = true;
-
-hitbox = -1;
-
-damage = 34;
-pv = 20;
+if hitbox != -1 {
+	instance_destroy(hitbox);
+}

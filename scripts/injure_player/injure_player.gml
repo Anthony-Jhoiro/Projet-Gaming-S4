@@ -1,4 +1,5 @@
 if(canHaveDommages){
+	audio_play_sound(snd_player_hurt, 10, false);
 	health -= other.damage;
 	canHaveDommages = false;
 	canMove = argument0;
