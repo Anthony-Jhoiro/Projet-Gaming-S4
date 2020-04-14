@@ -39,6 +39,7 @@ if (displayMenue) {
 	draw_set_colour(c_white);
 	for(i = 1; i < nbChoix; i++) {		
 		draw_text_ext(view_xport[0] + 35, 90 + (20 * (i -1)), messages[i], -1, room_width -20);
+	
 	}
 	
 	//draw cursor
