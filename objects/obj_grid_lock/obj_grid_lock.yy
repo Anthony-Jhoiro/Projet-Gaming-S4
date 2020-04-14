@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_grid_lock",
     "eventList": [
-        
+        {
+            "id": "ff11c267-2f8c-4d6d-b227-0bb7ef982fda",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 1,
+            "m_owner": "eae297b1-c5ef-4c97-9f88-4cbbf6d51364"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
