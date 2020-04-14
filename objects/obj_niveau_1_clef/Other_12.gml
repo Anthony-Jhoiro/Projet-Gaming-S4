@@ -3,7 +3,7 @@
 
 switch (lootNb) {
 	case 1:
-		scr_dialogue([["Obtenue : 100golds"]]);
+		scr_dialogue([["Obtenue : 100 golds"]]);
 		break;
 	case 2:
 		getKey = true;

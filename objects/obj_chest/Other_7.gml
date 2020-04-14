@@ -4,6 +4,7 @@
 
 image_speed = 0;
 image_index = 3;
+opened = true;
 
 var currentRoom = obj_room_object;
 

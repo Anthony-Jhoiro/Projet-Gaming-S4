@@ -5,12 +5,14 @@ event_inherited();
 
 out = false;
 
+audio_stop_all();
+
 
 destinations = [
-	"Où veux tu aller ?", 
+	"Où veux-tu aller ?", 
 	"Prairie avec de l'herbe", 
 	"Grotte orange",
-	"dongon pas beau", 
+	"donjon pas beau", 
 	"L'autre plaine",
 	"[NOM DU DERNIER NIVEAU]"
 ];

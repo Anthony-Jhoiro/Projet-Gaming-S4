@@ -6,6 +6,6 @@ if(canHaveDommages){
 	alarm[3] = argument1;
 	alarm[4] = 30;
 	if(health <= 0){
-		show_message("you died !");
+		room_goto(asset_get_index("game_over"));
 	}
 }

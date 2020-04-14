@@ -303,6 +303,14 @@
             }
         },
         {
+            "Key": "365167aa-1462-45ad-85e0-db971cdf389b",
+            "Value": {
+                "id": "1fc6117b-4c94-4e1a-aefb-d047b60fa0db",
+                "resourcePath": "sounds\\snd_game_over\\snd_game_over.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "36d1debe-2bad-41e7-94a3-d2d1190ecd0b",
             "Value": {
                 "id": "6b4c1778-8480-45ed-b452-33be47055c02",

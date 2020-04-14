@@ -3,4 +3,6 @@
 
 global.progression = 0;
 
+randomize();
+
 room_goto_next();

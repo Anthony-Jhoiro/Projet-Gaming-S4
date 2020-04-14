@@ -8,7 +8,8 @@
         "6075edbe-dad1-45eb-9b70-9834a636f743",
         "6f2d0c5c-5e82-4848-8a43-6ec649b577fa",
         "1bd70aba-249c-47be-b738-1db64305a990",
-        "dfb6dcec-7780-4827-ab99-037c6b5a1d44"
+        "dfb6dcec-7780-4827-ab99-037c6b5a1d44",
+        "365167aa-1462-45ad-85e0-db971cdf389b"
     ],
     "filterType": "GMSound",
     "folderName": "soundtracks",
