@@ -5,16 +5,6 @@
     "name": "obj_boss_room",
     "eventList": [
         {
-            "id": "2f0c7e3d-bab7-4585-905e-3d2c90d85b2b",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 13,
-            "eventtype": 9,
-            "m_owner": "ce22293e-d237-4f73-a430-ddc5a5744faf"
-        },
-        {
             "id": "1d7c0a79-c887-4867-b873-ec4bf2d7cc9b",
             "modelName": "GMEvent",
             "mvc": "1.0",
