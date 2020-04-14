@@ -1,8 +1,6 @@
 /// @description Insérez la description ici
 // Vous pouvez écrire votre code dans cet éditeur
 
-alarm_set(0, 3);
+destroy = true;
 
-audio_stop_all();
-
-audio_play_sound(snd_boss_music, 100, true);
+scr_dialogue([["J'ai perdu, prends la holly goat, tu as gagné !"]]);

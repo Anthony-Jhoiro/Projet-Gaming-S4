@@ -3,7 +3,7 @@
 
 if(canHaveDommages){
 	audio_play_sound(snd_ennemy_hurt, 10, false);
-	pv -= 10;
+	pv -= 10 + (global.arme * 5);
 	if(pv <= 0){
 		instance_destroy();
 	}
