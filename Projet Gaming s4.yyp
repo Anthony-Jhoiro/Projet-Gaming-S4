@@ -759,6 +759,14 @@
             }
         },
         {
+            "Key": "9c7e6486-8a43-4a7d-8ee7-7685732e7478",
+            "Value": {
+                "id": "b9be8549-1a73-43b6-860e-39a4955d17f2",
+                "resourcePath": "sounds\\snd_leviers\\snd_leviers.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "9dfe1b7f-bc1d-4837-932b-fcd18679cb3e",
             "Value": {
                 "id": "8510b320-2146-43fb-ac08-bf8eed0d1e0c",
@@ -1167,6 +1175,14 @@
             }
         },
         {
+            "Key": "cc9d0a35-022c-4249-b3c8-b0a821165897",
+            "Value": {
+                "id": "edd82249-41c7-49ce-b198-2f2da85aa5b5",
+                "resourcePath": "sounds\\snd_grilles\\snd_grilles.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "cce94063-e052-476e-87ea-960c4a37e976",
             "Value": {
                 "id": "75e4b4a9-dda6-422b-9dbf-c962416dbae4",
@@ -1279,6 +1295,14 @@
             }
         },
         {
+            "Key": "e14f55bd-7b1a-42f8-8e37-21d76fad789d",
+            "Value": {
+                "id": "4973b89f-5954-46eb-a6ef-59c636465b94",
+                "resourcePath": "sounds\\snd_coin\\snd_coin.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "e33b1354-5251-4409-a115-d9196f5ad545",
             "Value": {
                 "id": "5283c294-9579-4e14-9667-bb50e84a4da0",
@@ -1316,6 +1340,14 @@
                 "id": "785ef6ee-77fb-41b6-89e0-5230b14cbbec",
                 "resourcePath": "objects\\obj_rat\\obj_rat.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e7171b52-0c60-405d-b699-39106f98ae4d",
+            "Value": {
+                "id": "627293c9-388b-418d-b8e8-0bb2ad1d412c",
+                "resourcePath": "sounds\\snd_chest\\snd_chest.yy",
+                "resourceType": "GMSound"
             }
         },
         {

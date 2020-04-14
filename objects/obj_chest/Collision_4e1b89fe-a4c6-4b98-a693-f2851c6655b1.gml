@@ -2,5 +2,8 @@
 // Vous pouvez écrire votre code dans cet éditeur
 
 if (keyboard_check(vk_enter)) {	
-	image_speed = 8;	
+	image_speed = 8;
+	if(image_index == 0){
+		audio_play_sound(snd_chest, 1, false);
+	}
 }

@@ -6,5 +6,8 @@ if (keyboard_check(vk_enter)) {
 	with (global.niveau) {
 		event_user(3);
 	}
+	if(image_index == 0){
+		audio_play_sound(snd_leviers, 1, false);
+	}
 	image_index = 1;
 }

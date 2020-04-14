@@ -1,8 +1,9 @@
-/// @description Insérez la description ici
+ /// @description Insérez la description ici
 // Vous pouvez écrire votre code dans cet éditeur
 
 
-instance_destroy();
+image_speed = 0;
+image_index = 3;
 
 var currentRoom = obj_room_object;
 
