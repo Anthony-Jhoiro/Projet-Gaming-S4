@@ -1,4 +1,4 @@
-/// @description Insérez la description ici
+/// @description dialogue de fin
 // Vous pouvez écrire votre code dans cet éditeur
 
 destroy = true;

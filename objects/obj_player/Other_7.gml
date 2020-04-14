@@ -1,4 +1,4 @@
-/// @description Insérez la description ici
+/// @description fin attaque
 // Vous pouvez écrire votre code dans cet éditeur
 
 if(sprite_index == spr_player_attack_epee){

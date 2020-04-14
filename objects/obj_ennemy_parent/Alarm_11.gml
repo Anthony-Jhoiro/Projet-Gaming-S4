@@ -1,4 +1,4 @@
-/// @description Insérez la description ici
+/// @description peut se faire taper
 // Vous pouvez écrire votre code dans cet éditeur
 
 canHaveDommages = true;

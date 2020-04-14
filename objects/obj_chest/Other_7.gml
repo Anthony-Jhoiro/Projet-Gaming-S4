@@ -1,4 +1,4 @@
- /// @description Insérez la description ici
+ /// @description Ouvre le coffre
 // Vous pouvez écrire votre code dans cet éditeur
 
 

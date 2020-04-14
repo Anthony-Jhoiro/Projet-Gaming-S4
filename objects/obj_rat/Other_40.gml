@@ -1,4 +1,4 @@
-/// @description Insérez la description ici
+/// @description supprimer si bombe
 // Vous pouvez écrire votre code dans cet éditeur
 
 if (bombe) {

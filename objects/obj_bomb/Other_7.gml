@@ -1,4 +1,4 @@
-/// @description Insérez la description ici
+/// @description Boum
 // Vous pouvez écrire votre code dans cet éditeur
 
 if (sprite_index == spr_explosion)
