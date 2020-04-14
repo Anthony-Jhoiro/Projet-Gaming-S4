@@ -4,7 +4,7 @@
 if(canHaveDommages){
 	pv -= 10;
 	if(pv <= 0){
-		instance_destroy();	
+		instance_destroy();
 	}
 	canHaveDommages = false;
 	alarm[11] = 20;
