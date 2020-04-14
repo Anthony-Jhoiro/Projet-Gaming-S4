@@ -4,8 +4,11 @@
 if(canHaveDommages){
 	pv -= 10;
 	if(pv <= 0){
-		instance_destroy();	
+		instance_destroy();
 	}
 	canHaveDommages = false;
-	alarm[0] = 20;
+	alarm[11] = 20;
+	canMove = false;
+	dirEjection = sign(x - obj_player.x);
+	alarm[10] = 30;
 }

@@ -327,6 +327,14 @@
             }
         },
         {
+            "Key": "3ff04772-4758-43e9-b417-334b35570886",
+            "Value": {
+                "id": "4350e82a-b628-4314-9e7d-5be02da30bb1",
+                "resourcePath": "sprites\\spr_gameOver\\spr_gameOver.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "41c73286-91b1-4ff6-8342-f3c325cb692e",
             "Value": {
                 "id": "f245fe08-18f3-4941-bd0e-25a6f3b3a736",
@@ -823,6 +831,14 @@
             }
         },
         {
+            "Key": "a3355cf8-02b2-4a54-87d9-16611ad8abc0",
+            "Value": {
+                "id": "208f9c9e-fa6d-4174-8e63-4bbf1d2b184e",
+                "resourcePath": "objects\\obj_gameOver\\obj_gameOver.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a4cbc146-e515-4454-8fd5-64414c479dcc",
             "Value": {
                 "id": "cde91b0e-f6d3-4db9-9b31-42d9c0e88431",
@@ -1055,6 +1071,14 @@
             }
         },
         {
+            "Key": "b9517f32-6b8d-4f6d-9e50-767894366e47",
+            "Value": {
+                "id": "4ca01088-e589-4654-a0ee-9f197637acee",
+                "resourcePath": "rooms\\game_over\\game_over.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "ba116328-715b-493f-8032-3b628cdd7571",
             "Value": {
                 "id": "a5c820ce-c497-4efb-807f-16b8eea56b0f",
@@ -1100,6 +1124,14 @@
                 "id": "02d8278d-e520-4239-9731-cf75ed1a2e24",
                 "resourcePath": "objects\\obj_bat\\obj_bat.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c5babe90-5ba3-4d25-9c9a-64d227649513",
+            "Value": {
+                "id": "f2ec1344-c8a7-4d49-b6e5-88f30e4a123c",
+                "resourcePath": "scripts\\injure_player\\injure_player.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -1445,7 +1477,8 @@
         "c77d2c26-17c5-49d5-8b3d-a8f78755c390",
         "d90d20a0-5827-4f1a-8bcd-f0efe8355788",
         "8ac0e474-a8a6-4de0-b83c-bab1a44b55c5",
-        "3356bbba-f5b1-4b4e-a151-1adb8f5dbd0e"
+        "3356bbba-f5b1-4b4e-a151-1adb8f5dbd0e",
+        "c5babe90-5ba3-4d25-9c9a-64d227649513"
     ],
     "tutorial": ""
 }
