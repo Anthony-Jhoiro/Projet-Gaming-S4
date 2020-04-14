@@ -2,7 +2,8 @@
 // Vous pouvez écrire votre code dans cet éditeur
 
 if (onScreen()) {
-instance_create_layer(x, y, "Instances", obj_rabit)
+instance_create_layer(x, y, "Instances", obj_rabit);
+
 }
 
-alarm_set(0, 150)
+alarm_set(0, 90);

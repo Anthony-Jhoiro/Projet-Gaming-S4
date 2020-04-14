@@ -95,14 +95,6 @@
             }
         },
         {
-            "Key": "0a33b54e-690e-4e68-b7eb-0522c301a987",
-            "Value": {
-                "id": "1ea5516c-f998-43b3-807f-3dca61caaba6",
-                "resourcePath": "views\\0a33b54e-690e-4e68-b7eb-0522c301a987.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "0a99ab25-c9f4-4c93-80dc-351cdbc456b3",
             "Value": {
                 "id": "9470f518-c6c9-415d-9313-f977c76b16c4",
@@ -468,6 +460,14 @@
                 "id": "d315c220-f99b-4417-ab0c-4cf363f62410",
                 "resourcePath": "views\\639dd92c-1e22-40a1-aa48-87bd14f2f6a3.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "63b657f3-52fb-47e2-ac7a-1caeac83e9e6",
+            "Value": {
+                "id": "a9b32c52-180a-4405-854a-6edfc6b83114",
+                "resourcePath": "objects\\obj_setglobalvariables\\obj_setglobalvariables.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -871,6 +871,14 @@
             }
         },
         {
+            "Key": "af88b70a-0863-4b9b-a239-d2bdb1861a1f",
+            "Value": {
+                "id": "13df9696-bb56-44a7-a275-35f56334462b",
+                "resourcePath": "rooms\\boss_room\\boss_room.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "afad50fe-cd59-48ac-b745-aace5fa8a800",
             "Value": {
                 "id": "7b80c1ef-207d-4af9-9aaa-7c36030dd885",
@@ -948,6 +956,14 @@
                 "id": "7ec3f862-3b83-4b9e-a9d0-36b9f9f64ade",
                 "resourcePath": "sprites\\spr_rat_walk\\spr_rat_walk.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b80453fd-f2d9-4759-a2cd-37468e888717",
+            "Value": {
+                "id": "f3d5b558-1e57-4906-8743-b3305a22c2d2",
+                "resourcePath": "rooms\\setGlobalVariables\\setGlobalVariables.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -1079,6 +1095,14 @@
             }
         },
         {
+            "Key": "ce22293e-d237-4f73-a430-ddc5a5744faf",
+            "Value": {
+                "id": "1e3548be-da53-47e6-a70c-aa051a069c11",
+                "resourcePath": "objects\\obj_boss_room\\obj_boss_room.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cdd4ea5e-201f-447a-a520-93ba7ccb294b",
             "Value": {
                 "id": "ff0e3970-c9d8-4a0f-aea9-4b1c6c9be5db",
@@ -1092,6 +1116,14 @@
                 "id": "01853575-e48a-40cb-ab7d-223ef533d2b5",
                 "resourcePath": "views\\cf760a13-7eff-4a15-8824-aa79cdb62ba9.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cfe04713-d100-4080-8748-a18527dff41e",
+            "Value": {
+                "id": "2dece0f9-c102-495d-aee2-01aaa0917fef",
+                "resourcePath": "fonts\\font_main_gros\\font_main_gros.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -1267,14 +1299,6 @@
             "Value": {
                 "id": "b0b8efec-606d-463a-a256-50f9e2b84d21",
                 "resourcePath": "objects\\obj_grotte1\\obj_grotte1.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "f7b80090-cc8b-4413-b9ef-308efac7b36c",
-            "Value": {
-                "id": "5513b80f-a679-4109-9920-0ff1447da5a6",
-                "resourcePath": "objects\\obj_test_dialog_rep\\obj_test_dialog_rep.yy",
                 "resourceType": "GMObject"
             }
         },

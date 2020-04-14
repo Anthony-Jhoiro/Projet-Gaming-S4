@@ -1,8 +1,6 @@
 /// @description Insérez la description ici
 // Vous pouvez écrire votre code dans cet éditeur
 
-event_inherited();
+global.progression = 7;
 
-texteIntro = false;
-
-talked = false;
+room_goto_next();

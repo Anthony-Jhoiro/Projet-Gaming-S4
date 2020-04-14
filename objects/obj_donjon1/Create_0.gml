@@ -3,6 +3,6 @@
 
 event_inherited();
 
-texteIntro = false;
+introSpeech = false;
 
-talked = false;
+out = false;

@@ -1,4 +1,8 @@
 /// @description Insérez la description ici
 // Vous pouvez écrire votre code dans cet éditeur
 
-scr_dialogue([["Maintenant que tu as frnachis la grotte tu dois te rendre au donjon."]]);
+if (not out) {
+	scr_dialogue([["Maintenant que tu as franchis la grotte tu dois te rendre au donjon."]]);
+	global.progression = 4;
+	out = true;
+}

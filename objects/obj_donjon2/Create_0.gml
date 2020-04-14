@@ -3,6 +3,4 @@
 
 event_inherited();
 
-texteIntro = false;
-
-talked = false;
+levelEnd = false;

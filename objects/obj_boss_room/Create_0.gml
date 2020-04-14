@@ -1,8 +1,6 @@
 /// @description Insérez la description ici
 // Vous pouvez écrire votre code dans cet éditeur
 
-event_inherited();
+global.progression = 10;
 
-texteIntro = false;
-
-talked = false;
+scr_dialogue([["[INSERER COMBAT DE BOSS]"]]);
