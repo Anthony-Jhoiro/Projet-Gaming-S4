@@ -9,7 +9,8 @@
         "0f95c5fb-2628-4cdd-bf25-5b6874b4ded9",
         "ae6c931a-4467-4edc-bfb3-90a8b1f2959a",
         "c08f062a-42f8-42d4-b177-0af77bf85960",
-        "591b46cf-0f9d-470a-8d42-797bf6943ab3"
+        "591b46cf-0f9d-470a-8d42-797bf6943ab3",
+        "aedc01b8-ce86-4495-98e3-3963541eefe1"
     ],
     "filterType": "GMSprite",
     "folderName": "ennemis",
