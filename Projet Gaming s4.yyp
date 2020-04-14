@@ -1327,14 +1327,6 @@
             }
         },
         {
-            "Key": "e849fe8e-acb4-405a-b2a0-1ee4315dab93",
-            "Value": {
-                "id": "bcb63cc9-2254-4a53-8cfa-b7fc5d6c63b9",
-                "resourcePath": "rooms\\niveau_intro\\niveau_intro.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "e948865b-195e-4e43-a628-a7ba344642ec",
             "Value": {
                 "id": "ca4136b2-013e-48dc-b31c-4a997d8a0ed9",
