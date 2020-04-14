@@ -1,6 +1,6 @@
 if(canHaveDommages){
 	audio_play_sound(snd_player_hurt, 10, false);
-	health -= other.damage;
+	health -= other.damage * (1 - (global.armure * 0.1));
 	canHaveDommages = false;
 	canMove = argument0;
 	dirEjection = sign(x - other.x);

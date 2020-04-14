@@ -1,4 +1,4 @@
-/// @description Insérez la description ici
+/// @description Déclanche l'événement
 // Vous pouvez écrire votre code dans cet éditeur
 
 obj_room_object.eventNb = eventNb;

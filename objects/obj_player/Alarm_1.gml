@@ -1,4 +1,4 @@
- /// @description Insérez la description ici
+ /// @description création de la hitbox sur l'épée
 // Vous pouvez écrire votre code dans cet éditeur
 
 if hitbox == -1 {

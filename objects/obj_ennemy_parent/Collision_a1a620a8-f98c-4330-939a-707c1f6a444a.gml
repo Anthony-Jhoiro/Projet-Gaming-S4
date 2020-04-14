@@ -1,9 +1,9 @@
-/// @description Insérez la description ici
+/// @description Collision avec l'arme du joueur
 // Vous pouvez écrire votre code dans cet éditeur
 
 if(canHaveDommages){
 	audio_play_sound(snd_ennemy_hurt, 10, false);
-	pv -= 10;
+	pv -= 10 + (global.arme * 5);
 	if(pv <= 0){
 		instance_destroy();
 	}

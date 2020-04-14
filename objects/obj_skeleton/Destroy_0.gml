@@ -1,4 +1,4 @@
-/// @description Insérez la description ici
+/// @description supprimer la hitbox
 // Vous pouvez écrire votre code dans cet éditeur
 
 if hitbox != -1 {

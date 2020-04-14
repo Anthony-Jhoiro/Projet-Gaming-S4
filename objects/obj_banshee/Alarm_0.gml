@@ -1,4 +1,4 @@
-/// @description Insérez la description ici
+/// @description Invoquer un lapin
 // Vous pouvez écrire votre code dans cet éditeur
 
 if (onScreen()) {

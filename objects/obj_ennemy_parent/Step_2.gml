@@ -1,4 +1,4 @@
-/// @description Insérez la description ici
+/// @description Gerer l'ejection
 // Vous pouvez écrire votre code dans cet éditeur
 
 if(not canMove and not inebranlable){

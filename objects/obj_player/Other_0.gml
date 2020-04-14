@@ -1,7 +1,7 @@
-/// @description Insérez la description ici
+/// @description mort si tombé dans le vide
 // Vous pouvez écrire votre code dans cet éditeur
 
 
 if(y > room_height){
-	room_goto(asset_get_index("game_over"));	
+	room_goto(game_over);	
 }
