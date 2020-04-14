@@ -7,4 +7,6 @@ global.arme = 0;
 global.armure = 0;
 
 
+randomize();
+
 room_goto_next();
