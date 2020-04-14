@@ -6,3 +6,5 @@ event_inherited();
 defaultSpeed = 2.5;
 
 canAttack = true
+
+health = 20;

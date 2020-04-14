@@ -10,7 +10,7 @@ if ((place_meeting(x+hspeed, y, obj_collision_full) or x+hspeed < 0 or x+hspeed 
 
 // Handle vertical collisions
 if (place_meeting(x, y+vspeed, obj_collision_full)) {
-	while (!place_meeting(x, y+sign(vspeed), obj_collision_full)) {
+	 while (!place_meeting(x, y+sign(vspeed), obj_collision_full)) {
 		y += sign(vspeed);
 	}
 	vspeed = 0;
