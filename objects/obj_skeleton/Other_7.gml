@@ -1,4 +1,4 @@
-/// @description Si il attaquait, remet sprite en idle
+/// @description Maj animation
 // Vous pouvez écrire votre code dans cet éditeur
 
 if (image_index == spr_skeleton_attack_min) {
