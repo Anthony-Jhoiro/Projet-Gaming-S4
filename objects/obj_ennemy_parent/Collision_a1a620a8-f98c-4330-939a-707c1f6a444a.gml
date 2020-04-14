@@ -11,4 +11,5 @@ if(canHaveDommages){
 	canMove = false;
 	dirEjection = sign(x - obj_player.x);
 	alarm[10] = 30;
+	image_blend = c_red;
 }

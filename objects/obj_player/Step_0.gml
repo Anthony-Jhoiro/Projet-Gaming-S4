@@ -16,12 +16,11 @@ if(canMove){
 		sprite_index = spr_player_idle;
 	}
 
-	if(keyboard_check_pressed(vk_anykey)){
-		if(keyboard_key == 79){
-			sprite_index = spr_player_attack_epee;
-			alarm_set(1, 1)
-			is_attacking = true;
-		}
+	if(keyboard_check(vk_up)){
+		image_index = 0;
+		sprite_index = spr_player_attack_epee;
+		alarm_set(1, 1)
+		is_attacking = true;
 	}
 	if(not is_attacking){
 		hspeed = diremove * defaultSpeed;	
