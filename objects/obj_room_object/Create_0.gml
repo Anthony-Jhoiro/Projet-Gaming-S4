@@ -15,3 +15,5 @@ global.dialogue = false;
 leverNb = 0;
 
 health = 100;
+
+audio_stop_all();

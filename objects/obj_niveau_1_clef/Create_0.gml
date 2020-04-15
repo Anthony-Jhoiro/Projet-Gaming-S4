@@ -5,6 +5,5 @@ event_inherited();
 
 getKey = false;
 
-audio_stop_all();
 
 audio_play_sound(snd_grassland, 100, true);

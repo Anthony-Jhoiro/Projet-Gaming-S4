@@ -5,6 +5,7 @@ message = "Le numero de loot n'a pas ete trouve";
 
 switch(lootNb) {
 	case 1:
+	global.coins += 100;
 		message = [["Obtenue : 100 golds"]];
 		break;
 	case 2:

@@ -5,7 +5,6 @@ event_inherited();
 
 out = false;
 
-audio_stop_all();
 
 
 destinations = [

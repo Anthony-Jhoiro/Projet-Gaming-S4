@@ -5,6 +5,4 @@ event_inherited();
 
 out = false;
 
-audio_stop_all();
-
 audio_play_sound(snd_donjon, 100, true);

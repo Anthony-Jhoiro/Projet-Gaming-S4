@@ -5,13 +5,16 @@ message = ["Numéro de loot introuvable"];
 
 switch(lootNb) {
 	case 1:
-		message = ["Obtenue : Une vache malade"];
+		global.coins += 100;
+		message = ["Obtenue : 100golds"];
 		break;
 	case 2:
-		message = ["Obtenue : Absolument rien"];
+		global.coins += 150;
+		message = ["Obtenue : 150golds"];
 		break;
 	case 3:
-		message = ["Obtenue : Une tronconeuse rouillée"];
+		global.coins += 1;
+		message = ["Obtenue : 1gold"];
 		break;
 	case 4:
 		message = ["Obtenue : Un objet rare mais trop lourd pour que vous puissiez le transporter"];

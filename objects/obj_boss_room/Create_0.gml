@@ -3,6 +3,5 @@
 
 alarm_set(0, 3);
 
-audio_stop_all();
 
 audio_play_sound(snd_boss_music, 100, true);

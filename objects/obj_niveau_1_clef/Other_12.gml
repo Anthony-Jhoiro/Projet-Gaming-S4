@@ -3,6 +3,7 @@
 
 switch (lootNb) {
 	case 1:
+	global.coins +=100;
 		scr_dialogue([["Obtenue : 100 golds"]]);
 		break;
 	case 2:
